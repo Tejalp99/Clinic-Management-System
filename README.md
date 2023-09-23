@@ -11,3 +11,6 @@
 5. Run the command "python3 app.py" or "python app.py" to run the project.
  
 6. Open the browser and go to the URL "http://localhost:5000" to view the project.
+
+UML Diagram:
+<img width="559" alt="Screenshot 2023-09-23 at 1 11 50 PM" src="https://github.com/Tejalp99/Clinic-Management-System/assets/115590863/1e08ba47-d5a5-4056-aaca-a997d63c7cd1">
