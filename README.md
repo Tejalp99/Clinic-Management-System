@@ -16,3 +16,8 @@ UML Diagram:
 
 
 <img width="559" alt="Screenshot 2023-09-23 at 1 11 50 PM" src="https://github.com/Tejalp99/Clinic-Management-System/assets/115590863/1e08ba47-d5a5-4056-aaca-a997d63c7cd1">
+
+
+Activity Diagram:
+
+<img width="516" alt="Screenshot 2023-09-23 at 1 14 41 PM" src="https://github.com/Tejalp99/Clinic-Management-System/assets/115590863/567152e3-51f3-4c29-b69e-384eba7ec671">
